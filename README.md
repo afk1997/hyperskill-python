@@ -40,7 +40,7 @@ Lion looks healthy.
 ```
 #### [Solution:](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage1.py) 
 
-# Stage 2:
+# [Stage 2:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-2)
 
 # Description<br />
 The important thing about working with animals is watching them. We need to see the animals on the screen to know how they are doing, right? At this time, we are ready to print something awesome: animal images! <br />
