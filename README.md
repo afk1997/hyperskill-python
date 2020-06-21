@@ -1,4 +1,6 @@
-# [hyperskill-python](https://www.jetbrains.com/academy/)
+# [hyperskill-python](https://hyperskill.org/join/bffd9d0ec)
+Join JetBrains Academy from [here](https://hyperskill.org/join/bffd9d0ec)
+
 (Under Construction, Updating everday. Do visit again!)
 
 ## Projects
