@@ -1,16 +1,43 @@
-# hyperskill-python
+# [hyperskill-python](https://www.jetbrains.com/academy/)
 (Under Construction, Updating everday. Do visit again!)
 
 ## Projects
+- Easy <br />
 1. [Zookeeper](https://github.com/afk1997/hyperskill-python/blob/master/README.md#zookeeper)
 2. Coffee Machine
-3. Hangman
-4. Tic-Tac-Toe
+3. Credit Calculator
+4. Simple Chatty Bot
+
+- Medium <br />
+1. Hangman
+2. Tic-Tac-Toe
+3. Rock-paper-Scissors
+4. Numeric Matrix Processor
+
+- Hard <br />
+1. Smart Calculator
+2. Text-Based Browser
+3. Tic-tac-Toe With AI
+4. To-Do List
+
+- Challenging
+1. Password Hacker
+2. HyperCar Service Center
+3. HyperJob Agency
+4. HyperNews Portal
 
 
 
 
-## Zookeeper
+## [Zookeeper](https://hyperskill.org/projects/98?goal=391)
+
+### About
+This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.
+Learning outcomes <br />
+This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops. <br />
+This project is a part of the following track<br /> 
+[Python Developer](https://hyperskill.org/onboarding?track=python)
+
 ### Stages
 - [Stage 1:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-1-rush-into-print)
 - [Stage 2:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-2-show-me-an-animal)
