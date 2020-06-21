@@ -38,3 +38,4 @@ Deer looks fine.
 Bat looks happy.
 Lion looks healthy.
 ```
+#### [Solution:](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage1.py) 
