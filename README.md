@@ -13,13 +13,13 @@
 ## Zookeeper
 ### Stages
 - [Stage 1:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-1)
-- Stage 2:
+- [Stage 2:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-2)
 - Stage 3:
 - Stage 4:
 
 
 
-# Stage 1:
+# Stage 1: Rush into Print
 
 # Description <br />
 
@@ -40,7 +40,7 @@ Lion looks healthy.
 ```
 #### [Solution:](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage1.py) 
 
-# [Stage 2:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-2)
+# Stage 2: Show me an animal!
 
 # Description<br />
 The important thing about working with animals is watching them. We need to see the animals on the screen to know how they are doing, right? At this time, we are ready to print something awesome: animal images! <br />
@@ -76,3 +76,75 @@ Yey, our little camel is sunbathing!
 ```
 
 #### [Solution:](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage2.py)
+
+# Stage 3: What's Inside?
+
+# Description <br />
+The third stage brings new abilities for your software: it will be able to recognize the number of a specific habitat from the input and show the animals living there.<br />
+
+Add all variables with images from the template to a variable with the type list. The order of variables matters: they must be in the order they're defined in the code. The list must contain all of them with no duplicates.<br />
+
+## Objectives <br />
+In this stage, your program should: <br />
+
+Ask for a number of the habitat using the following phrase: `Which habitat # do you need?.`<br />
+Use the input number as an index of your habitat to print its content.<br />
+End with the following phrase:
+
+`The end of the program. To check another habitat restart the watcher please. `
+## Examples
+The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input. <br />
+
+### Example 1
+```
+Which habitat # do you need? > 5
+ 
+Switching on camera from the habitat with rabbits...
+         ,
+        /|      __
+       / |   ,-~ /
+      Y :|  //  /
+      | jj /( .^
+      >-"~"-v"
+     /       Y
+    jo  o    |
+   ( ~T~     j
+    >._-' _./
+   /   "~"  |
+  Y     _,  |
+ /| ;-"~ _  l
+/ l/ ,-"~    \
+\//\/      .- \
+ Y        /    Y
+ l       I     !
+ ]\      _\    /"\
+(" ~----( ~   Y.  )
+It seems there will be more rabbits soon!
+
+The end of the program. To check another habitat restart the watcher please.
+```
+
+### Example 2
+```
+Which habitat # do you need? > 4
+ 
+Switching on camera from the habitat with bats...
+_________________               _________________
+ ~-.              \  |\___/|  /              .-~
+     ~-.           \ / o o \ /           .-~
+        >           \\  W  //           <
+       /             /~---~\             \
+      /_            |       |            _\
+         ~-.        |       |        .-~
+            ;        \     /        i
+           /___      /\   /\      ___\
+                ~-. /  \_/  \ .-~
+                   V         V
+It looks like this bat is fine.
+---
+The end of the program. To check another habitat restart the watcher please.
+```
+
+#### [Solution](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage4.py)
+
+
