@@ -15,7 +15,7 @@
 - [Stage 1:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-1-rush-into-print)
 - [Stage 2:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-2-show-me-an-animal)
 - [Stage 3:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-3-whats-inside)
-- [Stage 4:]()
+- [Stage 4:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-4-sustainable-care-3)
 
 
 
