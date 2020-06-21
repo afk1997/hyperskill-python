@@ -12,14 +12,15 @@
 
 ## Zookeeper
 ### Stages
-- [Stage 1:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-1)
-- [Stage 2:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-2)
-- Stage 3:
-- Stage 4:
+- [Stage 1:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-1-rush-into-print)
+- [Stage 2:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-2-show-me-an-animal)
+- [Stage 3:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-3-whats-inside)
+- [Stage 4:]()
 
 
 
 # Stage 1: Rush into Print
+First, let's try to get some simple output from your code.
 
 # Description <br />
 
@@ -41,6 +42,7 @@ Lion looks healthy.
 #### [Solution:](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage1.py) 
 
 # Stage 2: Show me an animal!
+Show the zookeeper an image of her ward.
 
 # Description<br />
 The important thing about working with animals is watching them. We need to see the animals on the screen to know how they are doing, right? At this time, we are ready to print something awesome: animal images! <br />
@@ -78,6 +80,7 @@ Yey, our little camel is sunbathing!
 #### [Solution:](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage2.py)
 
 # Stage 3: What's Inside?
+The zookeeper wants to know what is inside each habitat, by its number.
 
 # Description <br />
 The third stage brings new abilities for your software: it will be able to recognize the number of a specific habitat from the input and show the animals living there.<br />
@@ -146,5 +149,64 @@ The end of the program. To check another habitat restart the watcher please.
 ```
 
 #### [Solution](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage4.py)
+
+# Stage 4: Sustainable Care <3
+Finally, your program is able to work for as long as needed!
+
+# Description <br />
+It's time to make your project more convenient and understandable. In this final stage, your software will be ready for use by the zoo staff. Your program should understand the habitat numbers, show the animals, and be able to work infinitely. <br />
+
+## Objectives
+These are your tasks at this point: <br />
+
+Your program should repeat the behavior from the previous stage, now in a loop <br />
+Do not forget to add an exit opportunity for the program: inputting the word exit must terminate the program.<br />
+At the end of execution, it must print See you!.<br />
+
+## Example
+The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input. <br />
+
+The complete program should work this way: <br />
+```
+Which habitat # do you need? > 3
+ 
+Switching on camera from the habitat with a lovely goose...
+    
+                                    _
+                                ,-"" "".
+                              ,'  ____  `.
+                            ,'  ,'    `.  `._
+   (`.         _..--.._   ,'  ,'        \    \
+  (`-.\    .-""        ""'   /          (  d _b
+ (`._  `-"" ,._             (            `-(   \
+ <_  `     (  <`<            \              `-._\
+  <`-       (__< <           :
+   (__        (_<_<          ;
+    `------------------------------------------
+This bird stares intently at you... (Maybe it's time to change the channel?)
+> Which habitat # do you need? > 1
+ 
+Switching on camera from the habitat with lions...
+                                               ,w.
+                                             ,YWMMw  ,M  ,
+                        _.---.._   __..---._.'MMMMMw,wMWmW,
+                   _.-""        '''           YP"WMMMMMMMMMb,
+                .-' __.'                   .'     MMMMW^WMMMM;
+    _,        .'.-'"; `,       /`     .--""      :MMM[==MWMW^;
+ ,mM^"     ,-'.'   /   ;      ;      /   ,       MMMMb_wMW"  @\
+,MM:.    .'.-'   .'     ;     `\    ;     `,     MMMMMMMW `"=./`-,
+WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
+"^MP__.-'    ,-' _.--""   `-,   ;       \  ; ;MMMMMMMMMMW^``; __|
+           /   .'            ; ;         )  )`{  \ `"^W^`,   \  :
+          /  .'             /  (       .'  /     Ww._     `.  `"
+         /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
+        (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
+The lion is croaking!
+Which habitat # do you need? > exit
+See you!
+```
+
+#### [Solution](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage4.py)
+
 
 
