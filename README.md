@@ -2,7 +2,7 @@
 (Under Construction, Updating everday. Do visit again!)
 
 ## Projects
-1. Zookeeper
+1. [Zookeeper](https://github.com/afk1997/hyperskill-python/blob/master/README.md#zookeeper)
 2. Coffee Machine
 3. Hangman
 4. Tic-Tac-Toe
@@ -12,7 +12,7 @@
 
 ## Zookeeper
 ### Stages
-- Stage 1:
+- [Stage 1:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-1)
 - Stage 2:
 - Stage 3:
 - Stage 4:
