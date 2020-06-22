@@ -6,7 +6,7 @@ Join JetBrains Academy from [here](https://hyperskill.org/join/bffd9d0ec)
 ## Projects
 - Easy <br />
 1. [Zookeeper](https://github.com/afk1997/hyperskill-python/blob/master/README.md#zookeeper)
-2. Coffee Machine
+2. [Coffee Machine](https://github.com/afk1997/hyperskill-python/blob/master/README.md#coffee-machine)
 3. Credit Calculator
 4. Simple Chatty Bot
 
