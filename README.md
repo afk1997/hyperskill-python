@@ -34,11 +34,9 @@ Join JetBrains Academy from [here](https://hyperskill.org/join/bffd9d0ec)
 ## [Zookeeper](https://hyperskill.org/projects/98?goal=391)
 
 ### About
-This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.
-Learning outcomes <br />
+This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status. <br />
+#### Learning outcomes <br />
 This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops. <br />
-This project is a part of the following track<br /> 
-[Python Developer](https://hyperskill.org/onboarding?track=python)
 
 ### Stages
 - [Stage 1:](https://github.com/afk1997/hyperskill-python/blob/master/README.md#stage-1-rush-into-print)
@@ -236,6 +234,16 @@ See you!
 ```
 
 #### [Solution](https://github.com/afk1997/hyperskill-python/blob/master/Zookeeper/stage4.py)
+
+
+# Coffee Machine
+
+## About
+What can be better than a cup of coffee during a break? A coffee that you don’t have to make yourself. It’s enough to press a couple of buttons on the machine and you get a cup of energy; but first, we should teach the machine how to do it. In this project, you will work on programming a coffee machine simulator. The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. You can get three types of coffee: espresso, cappuccino, and latte. Since nothing’s for free, it also collects the money. <br />
+
+### Learning outcomes
+
+This project allows you to get a taste of Python. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Python. <br />
 
 
 
